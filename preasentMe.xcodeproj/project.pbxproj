@@ -14,6 +14,11 @@
 		79718D192CA977F30003CFC4 /* preasentMeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79718D182CA977F30003CFC4 /* preasentMeTests.swift */; };
 		79718D232CA977F30003CFC4 /* preasentMeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79718D222CA977F30003CFC4 /* preasentMeUITests.swift */; };
 		79718D252CA977F30003CFC4 /* preasentMeUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79718D242CA977F30003CFC4 /* preasentMeUITestsLaunchTests.swift */; };
+		79718D322CA9793F0003CFC4 /* lujinmohammed.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79718D312CA9793F0003CFC4 /* lujinmohammed.swift */; };
+		79718D342CA979810003CFC4 /* Ghadah.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79718D332CA979810003CFC4 /* Ghadah.swift */; };
+		79718D362CA979990003CFC4 /* norahIbraheem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79718D352CA979990003CFC4 /* norahIbraheem.swift */; };
+		79718D382CA979B30003CFC4 /* razan.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79718D372CA979B30003CFC4 /* razan.swift */; };
+		79718D3A2CA979DE0003CFC4 /* noraAdosari.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79718D392CA979DE0003CFC4 /* noraAdosari.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +49,11 @@
 		79718D1E2CA977F30003CFC4 /* preasentMeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = preasentMeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		79718D222CA977F30003CFC4 /* preasentMeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = preasentMeUITests.swift; sourceTree = "<group>"; };
 		79718D242CA977F30003CFC4 /* preasentMeUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = preasentMeUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		79718D312CA9793F0003CFC4 /* lujinmohammed.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = lujinmohammed.swift; sourceTree = "<group>"; };
+		79718D332CA979810003CFC4 /* Ghadah.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ghadah.swift; sourceTree = "<group>"; };
+		79718D352CA979990003CFC4 /* norahIbraheem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = norahIbraheem.swift; sourceTree = "<group>"; };
+		79718D372CA979B30003CFC4 /* razan.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = razan.swift; sourceTree = "<group>"; };
+		79718D392CA979DE0003CFC4 /* noraAdosari.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = noraAdosari.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +84,11 @@
 		79718CFB2CA977F20003CFC4 = {
 			isa = PBXGroup;
 			children = (
+				79718D312CA9793F0003CFC4 /* lujinmohammed.swift */,
+				79718D332CA979810003CFC4 /* Ghadah.swift */,
+				79718D352CA979990003CFC4 /* norahIbraheem.swift */,
+				79718D372CA979B30003CFC4 /* razan.swift */,
+				79718D392CA979DE0003CFC4 /* noraAdosari.swift */,
 				79718D062CA977F20003CFC4 /* preasentMe */,
 				79718D172CA977F30003CFC4 /* preasentMeTests */,
 				79718D212CA977F30003CFC4 /* preasentMeUITests */,
@@ -257,7 +272,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				79718D3A2CA979DE0003CFC4 /* noraAdosari.swift in Sources */,
+				79718D362CA979990003CFC4 /* norahIbraheem.swift in Sources */,
+				79718D342CA979810003CFC4 /* Ghadah.swift in Sources */,
 				79718D0A2CA977F20003CFC4 /* ContentView.swift in Sources */,
+				79718D322CA9793F0003CFC4 /* lujinmohammed.swift in Sources */,
+				79718D382CA979B30003CFC4 /* razan.swift in Sources */,
 				79718D082CA977F20003CFC4 /* preasentMeApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
